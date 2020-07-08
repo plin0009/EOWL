@@ -1,0 +1,23 @@
+{
+  "name": "EOWL",
+  "version": "1.0.0",
+  "description": "Word-checking with the English Open Word List",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plin0009/EOWL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plin0009/EOWL/issues"
+  },
+  "homepage": "https://github.com/plin0009/EOWL#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
